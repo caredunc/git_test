@@ -1,0 +1,5 @@
+Now I'm modifying this .txt file
+So far, so good
+I am sending updates to the staging area
+Then I am committing
+If I was doing this collaboratively I would stage, commit and then ask for a pull. Peers would review my commits and then push to the main branch
